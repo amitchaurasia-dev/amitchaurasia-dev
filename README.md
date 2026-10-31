@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Amit Chaurasia
 
-### Full Stack Developer | React.js | Node.js | Express.js | PostgreSQL
+### Full Stack Developer | React.js | Node.js | Express.js | MS SQL Server
 
 I am a Full Stack Developer with 2+ years of hands-on experience building responsive web applications, REST APIs, and database-driven solutions.
 
@@ -9,8 +9,8 @@ I am a Full Stack Developer with 2+ years of hands-on experience building respon
 - 🔭 Building scalable web applications using React.js and Node.js
 - 🤝 Open to collaborating on Full Stack Development projects
 - 💼 Interested in developing real-world web applications and REST APIs
-- 🌱 Continuously improving my skills in React.js, Node.js, Express.js, and PostgreSQL
-- 💬 Ask me about React.js, Node.js, Express.js, REST APIs, and SQL
+- 🌱 Continuously improving my skills in React.js, Node.js, Express.js, MS SQL Server, MongoDB and PostgreSQL
+- 💬 Ask me about React.js, Node.js, Express.js, REST APIs, and MS SQL Server
 - ⚡ I enjoy turning ideas into practical digital solutions
 
 ## 🌐 Connect With Me
