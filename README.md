@@ -1,105 +1,68 @@
-# Hi, I'm Amit Chaurasia 👋
+# 👋 Hi, I'm Amit Chaurasia
 
-### Full Stack Developer | React.js | Node.js | Express.js
+### Full Stack Developer | React.js | Node.js | Express.js | PostgreSQL
 
-I am a Full Stack Developer with 2+ years of hands-on experience building scalable, responsive, and production-ready web applications.
+I am a Full Stack Developer with 2+ years of hands-on experience building responsive web applications, REST APIs, and database-driven solutions.
 
-I enjoy developing user-friendly interfaces, building RESTful APIs, implementing backend business logic, and designing efficient database solutions.
+## 💫 About Me
 
-- 💻 Full Stack Web Developer
-- 🚀 Building scalable web applications
-- 🔐 Experienced in Authentication, OAuth 2.0 & Payment Integration
-- 🗄️ Working with SQL Server, PostgreSQL & MongoDB
-- 🌱 Continuously learning and exploring new technologies
+- 🔭 Building scalable web applications using React.js and Node.js
+- 🤝 Open to collaborating on Full Stack Development projects
+- 💼 Interested in developing real-world web applications and REST APIs
+- 🌱 Continuously improving my skills in React.js, Node.js, Express.js, and PostgreSQL
+- 💬 Ask me about React.js, Node.js, Express.js, REST APIs, and SQL
+- ⚡ I enjoy turning ideas into practical digital solutions
 
----
+## 🌐 Connect With Me
 
-## 🛠️ Technical Skills
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Adjgan/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/amit.boundless_/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amit-chaurasia-2217bltr)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amitchaurasiabltr@gmail.com)
 
-**Frontend**
-- React.js
-- JavaScript (ES6+)
-- HTML5 & CSS3
-- Bootstrap 5
-- Responsive Web Design
+## 💻 Tech Stack
 
-**Backend**
-- Node.js
-- Express.js
-- RESTful APIs
-- Authentication & Authorization
-- OAuth 2.0
-- Third-Party API Integration
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-**Databases**
-- Microsoft SQL Server
-- PostgreSQL
-- MongoDB
+## 🚀 Featured Project
 
-**Tools & Technologies**
-- Git & GitHub
-- Postman
-- VS Code
-- npm
-- Razorpay
+### 🌍 WorldAtlas
 
----
+A responsive web application to explore countries around the world and view useful country information.
 
-## 🚀 Featured Projects
+**Features:**
+- 🌎 Explore countries around the world
+- 🚩 View country flags
+- 🏙️ Check capital cities
+- 👥 View population information
+- 📱 Responsive user interface
 
-### 1. CollaBizz – Influencer & Social Commerce Platform
+**Tech Stack:** React.js, JavaScript, CSS, Vite
 
-A platform designed to connect brands and influencers through campaign management and social commerce features.
+- 🔗 [Live Demo](https://worldatlasamit.netlify.app/)
+- 💻 [Source Code](https://github.com/amitchaurasia-dev/WorldAtlas)
 
-**Key Features:**
-- Campaign Management
-- Brand & Influencer Collaboration
-- Social Media API Integration
-- Wallet & Commission Management
-- Referral Management
-- Payment Gateway Integration
+## 📊 GitHub Stats
 
-**Tech Stack:** React.js, Node.js, Express.js, MS SQL Server, REST APIs, Razorpay
+![](https://github-readme-stats.shion.dev/api?username=amitchaurasia-dev&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
 
-### 2. Multi-Panel E-commerce Application
+![](https://streak-stats.demolab.com/?user=amitchaurasia-dev&theme=dark&hide_border=true)
 
-An e-commerce solution designed to manage products, customers, orders, and business operations.
-
-**Key Features:**
-- Product & Category Management
-- Customer Management
-- Shopping Cart & Checkout
-- Order Management
-- Payment Integration
-- Admin & Merchant Panels
-
-**Tech Stack:** React.js, Node.js, Express.js, REST APIs, SQL Database
-
-### 3. Kuber24 – User Panel
-
-A user-focused web application featuring an interactive dashboard and gaming-style interface.
-
-**Key Features:**
-- User Dashboard
-- Interactive UI Components
-- User Account Management
-- Transaction-oriented Interface
-- Responsive Design
-
-**Tech Stack:** React.js, JavaScript, Bootstrap, REST APIs
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=amitchaurasia-dev&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
-## 🤝 Connect With Me
-
-- 🌐 Portfolio: [My Portfolio](https://amitchaurasia.netlify.app/)
-- 💻 GitHub: [@amitchaurasia-dev](https://github.com/amitchaurasia-dev)
-- 💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/amit-chaurasia-2217bltr/)
-
----
-
-## 🎯 My Goal
-
-To build meaningful digital products, solve real-world problems through technology, and continuously grow as a Full Stack Developer.
-
-**Thanks for visiting my profile! Happy Coding! 🚀**
+⭐ Thanks for visiting my profile! Let's connect and build something meaningful together.
