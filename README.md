@@ -9,7 +9,7 @@ I am a Full Stack Developer with 2+ years of hands-on experience building respon
 - 🔭 Building scalable web applications using React.js and Node.js
 - 🤝 Open to collaborating on Full Stack Development projects
 - 💼 Interested in developing real-world web applications and REST APIs
-- 🌱 Continuously improving my skills in React.js, Node.js, Express.js, MS SQL Server, MongoDB and PostgreSQL
+- 🌱 Continuously improving my skills in React.js, Node.js, Express.js, MS SQL Server & MongoDB
 - 💬 Ask me about React.js, Node.js, Express.js, REST APIs, and MS SQL Server
 - ⚡ I enjoy turning ideas into practical digital solutions
 
@@ -30,7 +30,6 @@ I am a Full Stack Developer with 2+ years of hands-on experience building respon
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
