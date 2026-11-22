@@ -1,8 +1,10 @@
-# 👋 Hi, I'm Amit Chaurasia
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9C27B0,100:009688&height=150&section=header&text=Hi%20there%20%F0%9F%91%8B%20I'm%20Amit%20Chaurasia&fontSize=36&fontColor=ffffff&animation=twinkling&fontAlignY=55" width="100%" />
+</p>
 
-### Full Stack Developer | React.js | Node.js | Express.js | MS SQL Server
-
-I am a Full Stack Developer with 2+ years of hands-on experience building responsive web applications, REST APIs, and database-driven solutions.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=C792EA&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Building+Scalable+Web+Applications;React.js+%7C+Node.js+%7C+Express.js" />
+</p>
 
 ## 💫 About Me
 
